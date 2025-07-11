@@ -1,0 +1,30 @@
+# Core LangChain and OpenAI integration
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.1.0
+openai>=1.30.1
+
+# Environment variables loader
+python-dotenv>=1.0.1
+
+# Transformers for local model experiments
+transformers>=4.40.0
+
+# Deep learning backend (PyTorch)
+torch>=2.2.0
+
+# Data Handling & Analysis
+pandas>=2.2.2
+numpy>=1.26.4
+
+# Visualization
+matplotlib>=3.8.4
+seaborn>=0.13.2
+
+# Machine Learning utilities
+scikit-learn>=1.4.2
+
+# Jupyter Notebooks and UI Extensions
+notebook>=7.1.2
+jupyterlab>=4.1.5
+ipywidgets>=8.1.2
