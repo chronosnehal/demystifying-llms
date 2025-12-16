@@ -31,7 +31,7 @@ demystifying-llms/
 - `README.md`: Project documentation
 
 ## 🚀 Setup
-1. Install Python 3.10–3.11
+1. Install Python 3.12
 2. Create a virtual environment:
    python -m venv venv
    source venv/bin/activate  # or venv\Scripts\activate
